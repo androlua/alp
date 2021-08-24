@@ -11,6 +11,9 @@
 |---|---
 |QQ|946049229
 
+[![AndroLua](https://github-profile-trophy.vercel.app/?username=AndroLua&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ```lua
 print("你好世界")
 ```
