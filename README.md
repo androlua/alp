@@ -1,6 +1,6 @@
 # alp 项目源码 欢迎提交源码供大家分享
 
-[![Androlua](https://github-readme-streak-stats.herokuapp.com/?user=androlua)](https://git.io/streak-stats)
+[![Androlua](http://github-readme-streak-stats.herokuapp.com?user=Androlua&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
